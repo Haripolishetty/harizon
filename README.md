@@ -61,6 +61,7 @@ The project demonstrates how a modern web service can be deployed, secured, and 
                     │ Cache / Runtime │
                     └─────────────────┘
 
+```
 Request Flow
 1.A user visits https://harizon.live.
 2.The request reaches the Caddy reverse proxy.
@@ -206,11 +207,6 @@ cd harizon
 
 
 
-
-
-
-
-
 ---
 
 ## 🔐 Security
@@ -262,7 +258,6 @@ Search Providers
 
 
 
-
 ---
 
 ## 📊 Monitoring & Maintenance
@@ -290,10 +285,6 @@ docker compose ps
 
 
 
-
-
-
-
 ---
 
 ## 🎯 Project Goals
@@ -309,8 +300,6 @@ Harizon was created to explore and demonstrate:
 - Git and GitHub workflows
 - Secure configuration management
 - Cloud deployment
-
-
 
 
 
@@ -336,7 +325,13 @@ Possible future improvements include:
 
 ## 📸 Screenshots
 
-Screenshots of the Harizon search interface and deployment architecture will be added here.
+### Harizon Homepage
+
+![Harizon Homepage](screenshots/homepage.png)
+
+### Search Results
+
+![Harizon Search Results](screenshots/search-results.png).
 
 ---
 
