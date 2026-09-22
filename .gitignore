@@ -1,0 +1,5 @@
+.env
+core-config/settings.yml
+*.log
+.DS_Store
+__pycache__/

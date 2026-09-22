@@ -1,0 +1,3 @@
+harizon.live {
+    reverse_proxy core:8080
+}
